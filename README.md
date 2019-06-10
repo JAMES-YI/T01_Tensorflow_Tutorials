@@ -5,3 +5,4 @@ The following are included.
 
 (2) demo_2.py, implementation of a CNN for MNIST classification
 
+(3) deepfool.py, implementation of deepfool algorithm for generating adversarial samples
