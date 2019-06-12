@@ -8,3 +8,5 @@ The following are included.
 (3) deepfool.py, implementation of deepfool algorithm for generating adversarial samples
 
 (4) saliency_map.py, implementation of JSMA for attacking
+
+(5) fast_gradient.py, implementation of targeted FGS and untargeted FGS attacking
