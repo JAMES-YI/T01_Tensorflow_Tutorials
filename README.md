@@ -5,9 +5,9 @@ The following are included.
 
 (2) demo_2.py, implementation of a CNN for MNIST classification
 
-(3) deepfool.py, implementation of deepfool algorithm for generating adversarial samples
+(3) deepfool.py, deepfool_mnist.py, implementation of deepfool algorithm for generating adversarial samples on MNIST
 
-(4) saliency_map.py, implementation of JSMA for attacking
+(4) saliency_map.py, jsma_mnist_10x10.py, implementation of JSMA for attacking on MNIST
 
 (5) fast_gradient.py, implementation of targeted FGS and untargeted FGS attacking
 
