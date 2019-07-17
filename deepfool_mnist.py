@@ -1,4 +1,6 @@
 """
+Code from https://github.com/gongzhitaao/tensorflow-adversarial
+
 Use DeepFool to craft adversarials on MNIST.
 
 Modified by JYI, 05/28/2019
