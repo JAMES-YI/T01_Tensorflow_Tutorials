@@ -10,3 +10,7 @@ The following are included.
 (4) saliency_map.py, implementation of JSMA for attacking
 
 (5) fast_gradient.py, implementation of targeted FGS and untargeted FGS attacking
+
+(6) cw.py, implementation of cw attack with L2 metric
+
+(7) cw_mnist.py, cw attack applied to MNIST dataset
