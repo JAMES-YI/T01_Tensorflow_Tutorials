@@ -1,5 +1,7 @@
 '''
- - modified by JYI, 04/05/2019
+Code from https://github.com/gongzhitaao/tensorflow-adversarial
+
+- modified by JYI, 04/05/2019
    (1) add comments
 '''
 
